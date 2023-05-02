@@ -1,0 +1,10 @@
+
+nombre de app 
+1.0.0 => "Aqui mi app tiene el login. el register y la interaccion con la camara"
+1.1.0 => "Aqui mi app tiene una nueva interaccion con la galeria"
+1.1.1 => "Aqui soluciono el problema del login con google"
+En los repositorios vamos guardando distintas versiones de mi app
+//Error desde la 1.1 se decide downgradear a la 1.0
+ Git es una app en terminal solo funciona a traves de codigos 
+ git add .  Se agrega a seguimiento a todos los elementos 
+ 
